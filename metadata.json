@@ -1,0 +1,6 @@
+{
+  "name": "FreshMarket",
+  "description": "A modern grocery delivery application for browsing products, managing a cart, and placing orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
